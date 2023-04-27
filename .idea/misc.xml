@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/cloud-web/pom.xml" />
+        <option value="$PROJECT_DIR$/cloud-view/pom.xml" />
+        <option value="$PROJECT_DIR$/cloud-eneity/pom.xml" />
+        <option value="$PROJECT_DIR$/cloud-utils/pom.xml" />
+        <option value="$PROJECT_DIR$/cloud-dao/pom.xml" />
+        <option value="$PROJECT_DIR$/cloud-service/pom.xml" />
+        <option value="$PROJECT_DIR$/cloud-sys-entity/pom.xml" />
+        <option value="$PROJECT_DIR$/cloud-sys-dao/pom.xml" />
+        <option value="$PROJECT_DIR$/cloud-sys-service/pom.xml" />
+        <option value="$PROJECT_DIR$/cloud-sys-controller/pom.xml" />
+        <option value="$PROJECT_DIR$/CodeGenerator/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

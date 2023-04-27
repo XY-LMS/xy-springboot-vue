@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/cloud-dao/cloud-dao.iml" filepath="$PROJECT_DIR$/cloud-dao/cloud-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-entity/cloud-entity.iml" filepath="$PROJECT_DIR$/cloud-entity/cloud-entity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-service/cloud-service.iml" filepath="$PROJECT_DIR$/cloud-service/cloud-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-sys-controller/cloud-sys-controller.iml" filepath="$PROJECT_DIR$/cloud-sys-controller/cloud-sys-controller.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-sys-dao/cloud-sys-dao.iml" filepath="$PROJECT_DIR$/cloud-sys-dao/cloud-sys-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-sys-entity/cloud-sys-entity.iml" filepath="$PROJECT_DIR$/cloud-sys-entity/cloud-sys-entity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-sys-service/cloud-sys-service.iml" filepath="$PROJECT_DIR$/cloud-sys-service/cloud-sys-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-utils/cloud-utils.iml" filepath="$PROJECT_DIR$/cloud-utils/cloud-utils.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-view/cloud-view.iml" filepath="$PROJECT_DIR$/cloud-view/cloud-view.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-web/cloud-web.iml" filepath="$PROJECT_DIR$/cloud-web/cloud-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-zl.iml" filepath="$PROJECT_DIR$/cloud-zl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CodeGenerator/equipment-pro.iml" filepath="$PROJECT_DIR$/CodeGenerator/equipment-pro.iml" />
+    </modules>
+  </component>
+</project>
